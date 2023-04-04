@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+body {
+    background: #D3D3D3;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 20px;
+}
+
+.container {
+    background: white;
+    width: 100%;
+    border-color: black;
+    text-align: center;
+}
+
+.barre {
+    margin: 25px;
+    height: 2px;
+    background: #8b0000;
+}
+
+.subbarre {
+    margin: 25px;
+    height: 1px;
+    background: black;
+}
+
+.blockhead {
+display: block;
+text-align: center;
+}
+
+.img_header {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.blockhead h1 {
+    display: inline-block;
+    font-size: 75px;
+    font-weight: bolder;
+    padding: 10px;
+    margin: 0, 10px, 0, 10px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.blockhead h5 {
+    display: inline-block;
+    color: white;
+    background: black;
+    font-size: x-large;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.middle {
+    background: #e7e7e7;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.middle h3{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+
+.story{
+    font-size: larger;
+    padding: 10px;
+}
+
+.intro {
+    text-align: justify;
+}
+
+.intro b {
+    font-weight: bolder;
+}
+
+.legende {
+    font-style: italic;
+    font-size: large;
+    text-align: center;
+    padding: 10px;
+}
+
+.texte {
+    padding: 10px;  
+    text-align: justify;
+}
+
+.Titre {
+    color: #8b0000;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+.logo {
+    width: 15%;
+    margin: 25px;
+}
+
+.perso h3 {
+    font-size: 35px;
+    font-weight: bolder;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.item {
+    background: #e7e7e7;
+    margin: 10px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 5px;
+    border-radius: 100px;
+    text-transform:uppercase;
+    color: #8b0000;
+    font-size:medium;
+}
+
+.test {
+    background: #e7e7e7;
+    font-size: larger;
+    font-weight: bold;
+    padding: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 25px;
+}
