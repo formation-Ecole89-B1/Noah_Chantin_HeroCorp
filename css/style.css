@@ -130,6 +130,10 @@ text-align: center;
 .item a:hover {
     color: red;
     text-decoration: underline;
+    background: #DAD7D7;
+    padding-left:5em;
+    padding-right:5em;
+    border-radius: 100px;
     cursor: pointer;
 
 }
